@@ -1,0 +1,41 @@
+/* selector(declaration) */
+/* universal selection */
+
+*{margin: 2px;   
+    padding: 2px;
+    background-color: lightblue;
+    
+}
+
+/* element(tag) selector */
+h2 {
+    color: red;
+    font-size: 25px;
+}
+
+/* id selector */
+#p1 {
+    color: blue;
+    font-size: 20px;
+    background-color: yellow;
+
+}
+/* class selector */
+.para{
+    background-color: bisque;
+    color: purple;
+    font-size: 30px;
+
+}
+/* descending selector */
+div p{
+    color: orange;
+    background-color: lightgrey;
+    font-size: 17px;
+}
+/* child selector */
+div > h2{
+    color: blueviolet;
+    background-color: rgb(136, 98, 98);
+    font-size: 17px;
+}
