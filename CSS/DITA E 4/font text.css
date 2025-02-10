@@ -1,0 +1,101 @@
+/* font style and family */
+#p1 {
+    font-family: "noto serif telugu";
+    /* font-style: normal */
+    /* font-style: oblique; */
+    font-style: italic;
+}
+
+/* font variant */
+#p2 {
+    font-variant: small-caps;
+    /* font-variant: normal; */
+}
+
+/* font weight */
+
+#p3 {
+    font-weight: bold;
+     /* font-weight: 900;
+     font-weight: bolder; */
+} 
+
+/* font size */
+
+#p4 {
+    font-size: 4vw;
+    /* font-size: 50px; */
+    /* font-size: 150%;
+    font-size: large;
+    font-size: small;
+    font-size: 1cm; */
+}
+
+/* shor-hand */
+
+#p5 {
+    font: bold italic small-caps 10vw georgian;
+    width: 150px;
+}
+
+#p6 {
+        font-family: "Bebas Neue", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+#p7  {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  /* text align */
+
+  #p8 {
+    font-family: 'Courier New', Courier, monospace;
+    text-indent: 20px;
+    text-align: justify;
+    height: 250px;
+    width: 300px;
+  }
+
+  /* text color and decoration */
+
+  #p9 {
+    color: aqua;
+    direction: rtl;
+  }
+
+  /* text indent */
+
+  #p10 {
+    text-indent: 20px;
+
+  }
+
+#p11 {
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    /* white-space: pre; */
+}
+
+/* text decoration */
+#p12 {
+    text-decoration: underline;
+    /* text-decoration: line-through;
+    text-decoration: overline; */
+}
+
+#p13 {
+    text-transform: capitalize;
+    /* text-transform: lowercase;
+    text-transform: none; */
+}
+
+/* text shadow */
+
+#p14 {
+    font-size: 70px;
+    text-shadow: 5px 4px 7px red;
+}
