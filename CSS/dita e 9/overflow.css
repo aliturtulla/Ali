@@ -1,0 +1,33 @@
+#div1 {
+    width: 200px; ;
+    height: 200px;
+    overflow: visible;
+    border: 1px solid black
+
+}
+#div2 {
+    width: 200px; ;
+    height: 200px;
+    overflow: scroll;
+    border: 1px solid black
+}
+#div3 {
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+    border: 1px solid black
+    
+}
+#div4 {
+    width: 200px;
+    height: 200px;
+    overflow: hidden
+    
+}
+#div5 {
+    width: 200px;
+    height: 200px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    border: 1px solid black
+}

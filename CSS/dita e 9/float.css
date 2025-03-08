@@ -1,0 +1,49 @@
+#divf {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    float: left;
+}
+
+#divf1 {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    clear:both;
+}
+
+
+#divf2 {
+    width: 1200px;
+    height: 500px;
+    border: 1px solid black;
+    
+}
+#divf3 {
+    width: 1200px;
+    height: 500px;
+    border: 1px solid black;
+    float: right;
+}
+#divf4 {
+    width: 2000px;
+    height: 500px;
+    border: 1px solid black;
+    clear: both;
+    
+}
+
+#img2 {
+    float: right;
+}
+
+#img1 {
+    float: right;
+}
+
+#img3 {
+    float: left;
+}
+#img4 {
+    float: left;
+}
